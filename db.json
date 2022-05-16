@@ -12,6 +12,9 @@
     { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
     { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
   ],
+   "atores": [
+    { "id": 1, "name": "Marcela da Silva", "image": "www", "age": "15"}
+  ],
   "empresa": {
     "nome": "Code Prestige"
   }
