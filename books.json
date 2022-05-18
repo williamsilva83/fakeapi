@@ -1,4 +1,7 @@
 {
-  "cursos":
-    { "book_title": "Harry Potter", "book_author": "JK", "book_pages": 125 }
+   "cursos":{
+      "book_title":"Harry Potter",
+      "book_author":"JK",
+      "book_pages":125
+   }
 }
